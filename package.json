@@ -1,0 +1,15 @@
+{
+  "name": "chai-aur-code",
+  "version": "1.0.0",
+  "description": "Following Chain and code for learning backend",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.mjs"
+  },
+  "author": "Tejaswi Rastogi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
